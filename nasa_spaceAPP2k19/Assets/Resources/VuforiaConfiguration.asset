@@ -13,14 +13,18 @@ MonoBehaviour:
   m_Name: VuforiaConfiguration
   m_EditorClassIdentifier: 
   vuforia:
-    vuforiaLicenseKey: AdHjCVH/////AAABmTm95UTM00Y4mwJRnD2VHIAQYcUht2nvsGXdFmui2MNDwgX4jLNQj+xuKVA48fz/MQUr/UNzMjtyon3knCftcW+g2+SE5uvm3C7VuHKNHLgL7CUnorKVvL+awOb7D2MRAlte02dnqKwdOZS1mOoi1dC+GoBaTffrJRqvJyVQPhg1kjHItVTwB1T/iG0lxCDLIe4/RIvNLGQaCsaBimQJLUZOhoXAJrxy7+OF9VZAAGlqBRCq5O9DgIPB5qcdRFyUD0poMTuVAlsFQSFs/D61AF6F4t3nuxtSuHGsXqD6fXyHalgd1YslQm1Fcih+dJdxSQWACln1yyhwny4UHV5mH1oI186oncckfl39LiDyWOrK
-    ufoLicenseKey: QVMxaVFYai8vLy8vQUFBQUtCOHN3Z2tmWmtZcnJMNHV2aXFVUHRGUnpzMXU0V0NDK2NqbzZ1a0NSZFgrSDdiVWxUazR6NnJnNHA2bFB4OERrWGJ2Z2Fua0l6YUFOcXJlWFpmTnNsUXRJRDRydVp3d3Y3NTNCN1hFNHR5S1FBN0dOaTBSdnhGdVBmenpWZHMyekUxekkvT1A5MXN5T28rdFZDSVdPTHBPTXNLaW5oSHFMcEVwUElCWW11ZjZSSEhDQ3FKUEI4WnNFbkZwTmhOcGlmYjltck9EYTBRZnlHQ1NsVUVVdEhqU3dkcXhPTm10NHk1YzJPMitKQ09yNVA1Z0k0dS9Sa21zRXBKbUFXU0FkU0kwS0pocU10UzRJT1ZqaklmSnpCcXF2QytQd3RteUFQL0JldFJiVEtzTnB2Tml6bm1mTnEvcjJEQUdnL1RDOVBOZUVnUUZjT0ZoS0ZGRVBnVFRjUkFYRk1DeVBpMXg5bUFDNCsxVE1RTEQ=
+    vuforiaLicenseKey: 
+    ufoLicenseKey: QVEwWktkZi8vLy8vQUFBQUtNU3cremVPcTByYmpnS0toZTNmTHdCNDVmdkN2RWQ0L1BqUXk0TlIxWWNtOGlkUmIvVkpudkZNc0o1L1lhRFlQaEJpazFjZ011ZTNXK0thNFdyYU4xVzdHQ2FISTFnNVBBL0JYUUJvcFlBNzErSnM5aERPT2hLdDB4bmc1TEZ3ZWp0RHMvcTVCMGttRkdFVlJZbFNKVDV5RlZQdDdiR0wyVGpSNVVWYnRoUHN4Q3gwM21XL0VINGViZm5nTkhHakVLS1ZNM25xY0p2RmEyUkhnMHpLbzdMZm9QVU5YaStQN1dDSEU3YVVOTVRodHI1WWhwbmNRVmxycnduUXYvNCtqbVJoSVRhSDJlMkU1VEk3RkVDeWJONWs4eFZPWi9uY2RwdVBIUHNnYVNnWTI1aXphUVRHV2diTGJsam1pMDRueUMydVh5UHJLMjFXNGgxZUQyM09jZHRPekF1M1M0Y1ZCdk41R0h3eXdYVS8=
     delayedInitialization: 0
     cameraDeviceModeSetting: -1
     maxSimultaneousImageTargets: 1
     maxSimultaneousObjectTargets: 1
     useDelayedLoadingObjectTargets: 0
     modelTargetRecoWhileExtendedTracked: 1
+<<<<<<< HEAD
+    version: 8.3.8
+    eulaAcceptedVersions: '{"Values":["8.3"]}'
+=======
 <<<<<<< HEAD
     version: 1.0.0
 <<<<<<< HEAD
@@ -32,6 +36,7 @@ MonoBehaviour:
     eulaAcceptedVersions: '{"Values":["0.0","8.0","8.1","8.3"]}'
 >>>>>>> bcb3d75c02f325f5c5ee2516dd74a28de331c394
 >>>>>>> 1c044609aa5e38d5aaf4dfa5314392989b142289
+>>>>>>> c45980dbad722d0c9427b1e0207d4cae16dda48c
   digitalEyewear:
     cameraOffset: 0.06
     distortionRenderingLayer: 31
