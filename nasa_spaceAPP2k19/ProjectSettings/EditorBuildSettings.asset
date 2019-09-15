@@ -4,5 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/WorldPoliticalMapGlobeEdition/Demos/02 SpriteMarkers/UI.unity
+    guid: 2bb45e27c91475245a4b656e13de91ec
+  - enabled: 1
+    path: Assets/WorldPoliticalMapGlobeEdition/Demos/02 SpriteMarkers/Main_project.unity
+    guid: a13e5bc7b849d4c049e7e9d9d7e39350
   m_configObjects: {}
