@@ -21,8 +21,22 @@ MonoBehaviour:
     maxSimultaneousObjectTargets: 1
     useDelayedLoadingObjectTargets: 0
     modelTargetRecoWhileExtendedTracked: 1
+<<<<<<< HEAD
     version: 8.3.8
     eulaAcceptedVersions: '{"Values":["8.3"]}'
+=======
+<<<<<<< HEAD
+    version: 1.0.0
+<<<<<<< HEAD
+    eulaAcceptedVersions: '{"Values":["0.0","8.0","8.1","8.3"]}'
+=======
+    eulaAcceptedVersions: '{"Values":["8.3"]}'
+=======
+    version: 8.3.8
+    eulaAcceptedVersions: '{"Values":["0.0","8.0","8.1","8.3"]}'
+>>>>>>> bcb3d75c02f325f5c5ee2516dd74a28de331c394
+>>>>>>> 1c044609aa5e38d5aaf4dfa5314392989b142289
+>>>>>>> c45980dbad722d0c9427b1e0207d4cae16dda48c
   digitalEyewear:
     cameraOffset: 0.06
     distortionRenderingLayer: 31
