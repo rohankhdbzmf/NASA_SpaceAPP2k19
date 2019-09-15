@@ -13,16 +13,21 @@ MonoBehaviour:
   m_Name: VuforiaConfiguration
   m_EditorClassIdentifier: 
   vuforia:
-    vuforiaLicenseKey: 
-    ufoLicenseKey: QWJNMG11UC8vLy8vQUFBQUtKK3A5YjMzZ1Vha2tNZkJpRmVBSmIyWVFldzY5U2Vtbld1alhBY0NaOE1zb2w5dVNvWVU3MGdTelJtWWVGeEY3Vzh1M1VCRVlxTTVrMGxhQm02OW1lWXR1aCs2aWxiVTAyeUwyOEpZeWRFREQ0Ymo2Tk0wOWVMQzl1ZU9lZ2t4dkNOeC8wOC9jZDlXcDdnamNDcGVKU3FSSk5SZS9hTFU0a0JnSkV3ZkpsT0psbDN5S0FQRE5GeGQ2TkZOcFE2dVVIVTZIMG1DMHM0RHZpSjdLYlhHNy92OEFEVGszaCtPdXQ5d29hOTJWRzI4SlNPbHplWUF6Nld3QVVDeW9YR2dTaE83UC9ONHAwdGdiaDh6RVRlNGF3NTE4ZzVINGo2a2RvV1pDelhvWmdoYUlZZzNMNjdlazRJVXdJS2JrdkRDLzVaZGgrb3c2V0V0ZEdiUUc2TFJ6WlkvUW9tY1o4SERpcllnMzJXbzNqMk0=
+    vuforiaLicenseKey: AdHjCVH/////AAABmTm95UTM00Y4mwJRnD2VHIAQYcUht2nvsGXdFmui2MNDwgX4jLNQj+xuKVA48fz/MQUr/UNzMjtyon3knCftcW+g2+SE5uvm3C7VuHKNHLgL7CUnorKVvL+awOb7D2MRAlte02dnqKwdOZS1mOoi1dC+GoBaTffrJRqvJyVQPhg1kjHItVTwB1T/iG0lxCDLIe4/RIvNLGQaCsaBimQJLUZOhoXAJrxy7+OF9VZAAGlqBRCq5O9DgIPB5qcdRFyUD0poMTuVAlsFQSFs/D61AF6F4t3nuxtSuHGsXqD6fXyHalgd1YslQm1Fcih+dJdxSQWACln1yyhwny4UHV5mH1oI186oncckfl39LiDyWOrK
+    ufoLicenseKey: QVMxaVFYai8vLy8vQUFBQUtCOHN3Z2tmWmtZcnJMNHV2aXFVUHRGUnpzMXU0V0NDK2NqbzZ1a0NSZFgrSDdiVWxUazR6NnJnNHA2bFB4OERrWGJ2Z2Fua0l6YUFOcXJlWFpmTnNsUXRJRDRydVp3d3Y3NTNCN1hFNHR5S1FBN0dOaTBSdnhGdVBmenpWZHMyekUxekkvT1A5MXN5T28rdFZDSVdPTHBPTXNLaW5oSHFMcEVwUElCWW11ZjZSSEhDQ3FKUEI4WnNFbkZwTmhOcGlmYjltck9EYTBRZnlHQ1NsVUVVdEhqU3dkcXhPTm10NHk1YzJPMitKQ09yNVA1Z0k0dS9Sa21zRXBKbUFXU0FkU0kwS0pocU10UzRJT1ZqaklmSnpCcXF2QytQd3RteUFQL0JldFJiVEtzTnB2Tml6bm1mTnEvcjJEQUdnL1RDOVBOZUVnUUZjT0ZoS0ZGRVBnVFRjUkFYRk1DeVBpMXg5bUFDNCsxVE1RTEQ=
     delayedInitialization: 0
     cameraDeviceModeSetting: -1
     maxSimultaneousImageTargets: 1
     maxSimultaneousObjectTargets: 1
     useDelayedLoadingObjectTargets: 0
     modelTargetRecoWhileExtendedTracked: 1
+<<<<<<< HEAD
     version: 1.0.0
     eulaAcceptedVersions: '{"Values":["8.3"]}'
+=======
+    version: 8.3.8
+    eulaAcceptedVersions: '{"Values":["0.0","8.0","8.1","8.3"]}'
+>>>>>>> bcb3d75c02f325f5c5ee2516dd74a28de331c394
   digitalEyewear:
     cameraOffset: 0.06
     distortionRenderingLayer: 31
