@@ -7,6 +7,6 @@ public class scenechange : MonoBehaviour
 {
     public void ui()
     {
-        SceneManager.LoadScene("Main_project");
+        SceneManager.LoadScene("Main_project");//whysoshortscript
     }
 }
