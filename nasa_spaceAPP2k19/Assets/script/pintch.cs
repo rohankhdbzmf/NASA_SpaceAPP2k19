@@ -30,6 +30,7 @@ public class pintch : MonoBehaviour
 
             zoom(difference * 0.01f);
         }
+        //button click checking
         else if (Input.GetMouseButton(0))
         {
             Vector3 direction = touchStart - Camera.main.ScreenToWorldPoint(Input.mousePosition);
