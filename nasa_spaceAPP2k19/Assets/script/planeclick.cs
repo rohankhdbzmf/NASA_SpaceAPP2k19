@@ -13,6 +13,7 @@ public class planeclick : MonoBehaviour
     void Start()
     {
         definedButton = this.gameObject;
+        //it defines the button
     }
 
     // Update is called once per frame
@@ -27,6 +28,7 @@ public class planeclick : MonoBehaviour
             {
                 Debug.Log("Button Clicked");
                 OnClick.Invoke();
+                //button function
             }
         }
     }
